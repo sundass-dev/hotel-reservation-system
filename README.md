@@ -21,6 +21,3 @@ See `ERD.mwb` for the entity-relationship diagram (open with MySQL Workbench).
 1. Set up a MySQL database using the schema shown in the ERD
 2. Update database credentials in `DatabaseConnection.java` / `DBConnector.java`
 3. Compile and run `Main.java`
-
-## Screenshots
-*(Add screenshots here — highly recommended, I can help you add these next)*
